@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Wizz.cc Nabaztag Contrôleur
+Comment=Webapp for nabz.wizz.cc
+Type=Application
+Icon=wizz.cc_apple-touch-icon-114x114.png
+Exec=webapp-container --store-session-cookies --webappUrlPatterns=https?://nabz.wizz.cc/* http://nabz.wizz.cc/
+Terminal=false
+X-Ubuntu-Touch=true
+
+Name[en_US]=wizzccnabaztagcontrl.desktop

@@ -1,0 +1,16 @@
+{
+    "architecture": "all",
+    "description": "Webapp for nabz.wizz.cc",
+    "framework": "ubuntu-sdk-14.10",
+    "hooks": {
+        "wizzccnabaztagcontrl": {
+            "apparmor": "wizzccnabaztagcontrl.apparmor",
+            "desktop": "wizzccnabaztagcontrl.desktop"
+        }
+    },
+    "installed-size": "25",
+    "maintainer": "Guilhem Bonnefille <guilhem.bonnefille@gmail.com>",
+    "name": "wizzccnabaztagcontrl.guyou",
+    "title": "Wizz.cc Nabaztag Contrôleur",
+    "version": "0.1"
+}
